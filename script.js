@@ -1,14 +1,18 @@
 //01 
+console.log("question 01");
 //comments can make code readable
 
 //02 
+console.log("question 02");
 //Welcome to learn Javascript
 
 //03 
+console.log("question 03");
 /*code readable, 
 easy to reuse and informative*/
 
 //04
+console.log("question 04");
 // var a = String;
 let A="Kumaran";
 let B=true;
@@ -16,36 +20,43 @@ let C;
 let D=null;
 
 //05
+console.log("question 05");
 console.log(typeof A);
 console.log(typeof B);
 console.log(typeof C);
 console.log(typeof D);
 
 //06
+console.log("question 06");
 var Name1;
 var Name2;
 var Name3;
 var Name4;
 
 //07
+console.log("question 07");
 var Name1=5;
 var Name2=4;
 var Name3=3;
 var Name4=2;
 
 //08
+console.log("question 08");
 // var
 
 //09
+console.log("question 09");
 var first_name,last_name,arital_status,country,age;
 
 
 //Day2  JS Exercises
 
 //1
+console.log("question 01");
 var Name = "Learn JavaScript";
 
 //2
+console.log("question 02");
 console.log(Name);
 
 //3
